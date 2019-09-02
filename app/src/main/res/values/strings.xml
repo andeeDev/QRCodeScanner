@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndeeApp</string>
+    <string name="notauthorized">Ввійдіть в кабінет та\n проскануйте qr код</string>
+</resources>

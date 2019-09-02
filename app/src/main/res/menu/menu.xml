@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/your_id"
+        android:title="@string/notauthorized"
+        android:textSize="5dp"
+        app:showAsAction = "always"
+        />
+    <!--android:icon="@drawable/your_menu_icon"-->
+    <item
+        android:id="@+id/mybutton"
+        android:title=""
+        app:showAsAction="always"
+        android:icon="@drawable/ic_qr_code"
+        />
+</menu>
